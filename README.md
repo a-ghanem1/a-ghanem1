@@ -11,7 +11,7 @@
 
 ```json
 {
-   "languages": ["PHP", "C#", "JavaScript", "Ruby", "Python"],
+   "languages": ["C#", "PHP", "JavaScript", "Ruby", "Python"],
    "backend": [".NET Core", "Laravel", "Symfony", "Ruby on Rails"],
    "frontend": ["VueJs", "Bootstrap"],
    "databases": ["MSSQL Server", "MySQL"]
