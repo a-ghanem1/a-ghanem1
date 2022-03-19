@@ -11,9 +11,9 @@
 
 ```json
 {
-   "languages": ["JavaScript", "C#", "PHP", "JavaScript", "Ruby", "Python"],
-   "backend": ["NodeJS", ".NET Core", "Laravel", "Symfony", "Ruby on Rails"],
-   "frontend": ["VueJs", "Bootstrap"],
-   "databases": ["MSSQL Server", "MySQL"]
+   "languages": ["JavaScript", "TypeScript", "PHP"],
+   "backend": ["NodeJS", "AdonisJS", "NestJS", "Laravel", "GraphQL"],
+   "frontend": ["Angular"],
+   "databases": ["PostgreSQL", "MySQL"]
 }
 ```
