@@ -13,7 +13,7 @@
 {
    "languages": ["JavaScript", "TypeScript", "PHP"],
    "backend": ["NodeJS", "AdonisJS", "NestJS", "GraphQL", "Laravel"],
-   "frontend": ["Angular", "React"],
-   "databases": ["PostgreSQL", "MySQL"]
+   "frontend": ["NextJS", "React", "Angular"],
+   "databases": ["PostgreSQL", "MySQL", "MongoDB", "Firebase"],
 }
 ```
