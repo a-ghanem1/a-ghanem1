@@ -11,8 +11,8 @@
 
 ```json
 {
-   "languages": ["C#", "JavaScript", "TypeScript", "PHP"],
-   "backend": [".NET Core", "NodeJS", "AdonisJS", "Laravel", "NestJS", "GraphQL"],
+   "languages": ["C#", "JavaScript", "TypeScript"],
+   "backend": [".NET Core", "NodeJS", "AdonisJS", "NestJS", "GraphQL"],
    "frontend": ["NextJS", "React"],
    "databases": ["PostgreSQL", "MySQL", "MongoDB", "SQL Server"],
 }
