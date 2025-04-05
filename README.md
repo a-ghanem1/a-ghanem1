@@ -1,19 +1,47 @@
-<a target="_blank" href="https://aghanem.herokuapp.com"><img width="250" align="right" src="https://media.giphy.com/media/KzKDpvEtLcQeh6gC9z/giphy.gif"></a>
+# Hi there, I'm Abdelrahman Ghanem 👋
 
-# Abdelrahman Ghanem
+I'm a Senior Software Engineer based in Riyadh, Saudi Arabia, originally from Egypt. I specialize in building scalable backend systems, API integrations, and end-to-end solutions for SaaS and FinTech platforms.
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:a.ghanem2244@gmail.com?subject=From%20GitHub&cc=a.ghanem2244@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/abdelrahman-ghanem/)
+---
 
-:wave: Hi There, My name is Abdelrahman. I'm a Software Engineer, I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me.
+## 🚀 About Me
 
-## {...} My Stack
+- 🔭 Currently working at **Red Bull MOBILE (FNT)** as a Senior Software Engineer  
+- 🧠 Previously founded the Software Tech Department at **Unistep** and launched **Taqrer.net** with 90+ clients  
+- 🌍 Experience across KSA, UK (remote), and Egypt, delivering real impact in diverse engineering teams  
+- ⚙️ Strong in **.NET Core**, **Node.js (NestJS)**, **ReactJS**, and **AWS**  
+- 🔐 Passionate about security, clean architecture, DevOps, and CI/CD automation  
+- 🛠️ Love solving real-world problems with clean code and thoughtful system design
 
-```json
-{
-   "languages": ["C#", "JavaScript", "TypeScript"],
-   "backend": [".NET Core", "NodeJS", "AdonisJS", "NestJS", "GraphQL"],
-   "frontend": ["NextJS", "React"],
-   "databases": ["PostgreSQL", "MySQL", "MongoDB", "SQL Server"],
-}
-```
+---
+
+## 💼 Tech Stack
+
+**Languages & Frameworks**  
+C#, .NET Core, Node.js, NestJS, Typescript, ReactJS, NextJS
+
+**DevOps & Tools**  
+AWS, Docker, GitHub Actions, CI/CD, YARP, Sentry, Cypress, Seq, SeriLog, NewRelic, and more
+
+**Databases**  
+MS SQL Server, PostgreSQL, MongoDB, Redis
+
+**Architecture**  
+Microservices, Clean Architecture, SaaS Platforms, High-Availability Systems
+
+---
+
+## 📈 GitHub Stats
+
+![Abdelrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-ghanem1&show_icons=true&hide=prs&theme=default)
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/abdelrahman-ghanem/)   
+- Email: a.ghanem2244@gmail.com
+
+---
+
+Thanks for stopping by!
